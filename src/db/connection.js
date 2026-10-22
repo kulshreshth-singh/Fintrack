@@ -13,7 +13,8 @@ const connectDB = async () => {
        console.log(`\n MONGODB CONNECTED !!! DB HOST : ${connectionInstance.connection.host}`);
        console.log(`Database: ${connectionInstance.connection.name}`);
 
-  
+
+ 
 }
 
 
